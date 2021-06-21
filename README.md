@@ -2,8 +2,7 @@
 
 - I am Eklavya Sharma
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Full Stack Projects
+- Technogies I am familiar with <img src="bootstrap.png" height="30"> <img src="javascript.png" height="30"> <img src="react.png" height="30"> <img src="express.png" height="30"> <img src="mongodb.png" height="30"> 
 
 
 <!--
