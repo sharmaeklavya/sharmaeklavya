@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> ![Eklavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
+<p align="center"> ![Eklavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true) </p>
 
 
 
