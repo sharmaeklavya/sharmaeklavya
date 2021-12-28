@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 --> <br/>
 
 
-![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
+![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=dark&show_icons=true)
 
 
 
