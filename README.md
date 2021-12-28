@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 
-![Eklavya’ GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true&count_private=true “Eklavya’s GutHub Stats”)
+[Eklavya’ GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true&count_private=true “Eklavya’s GutHub Stats”)
