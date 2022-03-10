@@ -1,7 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - My name is Eklavya Sharma
-- I’m currently working on Full Stack Applications 🔭
+- I am Software Developer
+- I build Full Stack Applications 🔭
 - Technologies and Tools I work with:
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
