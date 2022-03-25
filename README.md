@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-- [My Portfolio](https://eklavyasharma.netlify.app)
+- [Portfolio v1](https://sharmaeklavya.netlify.app)
+
+- [Portfolio v2](https://eklavyasharma.netlify.app)
 
 <!--
 **sharmaeklavya/sharmaeklavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
