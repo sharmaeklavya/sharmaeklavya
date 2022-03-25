@@ -20,6 +20,8 @@
 
 - [Portfolio v2](https://eklavyasharma.netlify.app)
 
+- Thank you for visiting my profile, here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
+
 <!--
 **sharmaeklavya/sharmaeklavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
