@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- My name is Eklavya Sharma
-- I am Software Developer
+- My name is Eklavya Sharma.
+- I am a Software Developer.
 - I build Full Stack Applications 🔭
 - Technologies and Tools I work with:
 
