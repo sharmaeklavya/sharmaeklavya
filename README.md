@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">. My name is Eklavya Sharma.
+## Hi there, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> my name is Eklavya Sharma.
 
 - I am a Software Developer based in New Delhi India.
 - I build Full Stack Applications 🔭
