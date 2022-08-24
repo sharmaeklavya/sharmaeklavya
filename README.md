@@ -1,9 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+## My name is Eklavya Sharma.
 
-- My name is Eklavya Sharma.
-- I am a Software Developer.
+- I am a Software Developer based in New Delhi India.
 - I build Full Stack Applications 🔭
-- Technologies and Tools I work with:
+- Technologies/Tools I work with:
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +35,9 @@
 
 - [Portfolio v2](https://eklavyasharma.netlify.app)
 
-- Thank you for visiting my profile, here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
+- Thank you for visiting my profile. I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
+
+- Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
 
 <!--
 **sharmaeklavya/sharmaeklavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
