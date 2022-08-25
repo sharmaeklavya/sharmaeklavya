@@ -56,7 +56,7 @@
 
 - Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
 <!--
 
