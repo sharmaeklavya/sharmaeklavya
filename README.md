@@ -8,8 +8,8 @@
 - 🔭 Currently working on NestJS
 - 🌱 Learning Rust
 - 👯 Looking to collaborate on Full Stack Projects
-- 💬 Ask me about ReactJS
-- 📫 Reach me at: [my portfolio](https://sharmaeklavya.netlify.app)
+- 💬 Ask me about: ReactJS
+- 📫 Reach me through: [my portfolio](https://sharmaeklavya.netlify.app)
 - 😄 Pronouns: He / His/ Him
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
