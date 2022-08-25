@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmaeklavya)](https://git.io/streak-stats)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Verisimilitude11.Verisimilitude11) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
