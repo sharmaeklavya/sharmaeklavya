@@ -4,7 +4,7 @@
 
 - I am a Software Developer based in New Delhi India.
 - 🔭 Currently working on NestJS
-- 🌱 Currently learning Rust
+- 🌱 Learning Rust
 - 👯 Looking to collaborate on Full Stack Projects
 - 💬 Ask me about ReactJS
 - 📫 Reach me at: [Eklavya](https://sharmaeklavya.netlify.app)
