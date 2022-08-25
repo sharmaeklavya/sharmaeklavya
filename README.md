@@ -12,7 +12,7 @@
 - 📫 Reach me through: [my portfolio](https://sharmaeklavya.netlify.app)
 - 😄 Pronouns: He / His/ Him
 
-![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&border_color=hide_border&hide=contribs)
+![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&border=hide_border&hide=contribs)
 
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmaeklavya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
