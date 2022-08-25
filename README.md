@@ -3,11 +3,11 @@
 <h2 align-"left">About Me</h2>
 
 - I am a Software Developer based in New Delhi India.
-- 🔭 I’m currently working on NestJS
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Full Stack Projects
+- 🔭 Currently working on NestJS
+- 🌱 Currently learning Rust
+- 👯 Looking to collaborate on Full Stack Projects
 - 💬 Ask me about ReactJS
-- 📫 How to reach me: [Eklavya](https://sharmaeklavya.netlify.app)
+- 📫 Reach me at: [Eklavya](https://sharmaeklavya.netlify.app)
 - 😄 Pronouns: He / His/ Him
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
