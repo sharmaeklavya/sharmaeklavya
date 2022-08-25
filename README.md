@@ -13,7 +13,8 @@
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmaeklavya)](https://git.io/streak-stats)
 
-- Technologies/Tools I work with:
+<h2 align-"left">Technologies/Tools I work with</h2>
+
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +44,7 @@
 
 - Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
 
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
 
 <!--
 
