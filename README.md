@@ -52,7 +52,7 @@
   ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   
-<h2 align-"left">Thank you note:</h2>
+<h2 align-"left">Thank you note</h2>
 
 - Thank you for visiting my profile. I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
