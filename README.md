@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi there, I'm Eklavya</h1>
-<p align="right"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) </p>
 
 <h2 align-"left">About Me</h2>
 
@@ -56,6 +55,8 @@
 - Thank you for visiting my profile. I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
 - Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
 <!--
 
