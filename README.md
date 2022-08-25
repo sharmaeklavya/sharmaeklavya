@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 💬 Ask me about ReactJS
-- 📫 How to reach me: [@eklavyajs](https://twitter.com/eklavyajs) | [Portfolio](https://sharmaeklavya.netlify.app)
+- 📫 How to reach me: [Eklavya](https://sharmaeklavya.netlify.app)
 - 😄 Pronouns: He / His/ Him
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
@@ -39,11 +39,11 @@
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   
   
-- Thank you for visiting my profile. I love connecting with people. If you wish to chat - connect with me on: 
+- Thank you for visiting my profile. I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
 - Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya) [![wakatime](https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg)](https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c)
 
 <!--
 
