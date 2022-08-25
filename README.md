@@ -13,7 +13,6 @@
 - 😄 Pronouns: He / His/ Him
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
-![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=vue-dark&show_icons=true)
 
 <h2 align-"left">Languages</h2>
 
