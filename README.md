@@ -12,7 +12,7 @@
 
 ![Eklavya's Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmaeklavya&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&hide_border=true&hide=contribs)
+![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&hide_border=true)
 
 <h2 align-"left">Languages</h2>
 
