@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Eklavya</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
+<div align="right">![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)</div>
 
 <h2 align-"left">About Me</h2> 
 
