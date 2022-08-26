@@ -58,7 +58,7 @@
 
 - Thank you for visiting my profile. 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
 - I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
