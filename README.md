@@ -2,7 +2,6 @@
 
 <h2 align-"left">About Me</h2> 
 
-
 - I am a Software Developer based in New Delhi India.
 - 🔭 Currently working on NestJS
 - 🌱 Learning Rust Lang
