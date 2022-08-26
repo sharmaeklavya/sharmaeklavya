@@ -52,7 +52,7 @@
   ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   
-<div> </div>
+<h5> </h5>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
@@ -63,7 +63,6 @@
 - I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
 - Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
-
 
 <!--
 
