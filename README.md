@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Eklavya</h1>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
+
 <h2 align-"left">About Me</h2> 
 
 - I am a Software Developer based in New Delhi India.
@@ -52,12 +54,9 @@
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   
 
-
 <h2 align-"left">Thank you note</h2> 
 
 - Thank you for visiting my profile. 
-
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
 - I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
 
