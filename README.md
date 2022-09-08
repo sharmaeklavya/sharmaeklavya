@@ -9,7 +9,7 @@
 - 🌱 Learning Rust Lang
 - 👯 Looking to collaborate on Full Stack Projects
 - 💬 Ask me about: ReactJS
-- 📫 Reach me through: [my portfolio](https://sharmaeklavya.netlify.app)
+- 📫 Reach out to me through: [my portfolio](https://sharmaeklavya.netlify.app)
 - 😄 Pronouns: He / His/ Him
 
 ![Eklavya's Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmaeklavya&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
