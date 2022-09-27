@@ -16,6 +16,12 @@
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&hide_border=true)
 
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sharmaeklavya&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisimilitude11&layout=compact&langs_count=15&border_color=fff&&theme=tokyonight&border_radius=11" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharmaeklavya&border_color=fff&&theme=tokyonight&border_radius=11" />
+</p>
+
 <h2 align-"left">Languages</h2>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
