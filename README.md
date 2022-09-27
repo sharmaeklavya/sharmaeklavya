@@ -16,14 +16,9 @@
 
 ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&hide_border=true)
 
-
  <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaeklavya&layout=compact&langs_count=15&border_color=fff&&theme=tokyonight&border_radius=11" />
  </p>
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharmaeklavya&border_color=fff&&theme=tokyonight&border_radius=11" />
-</p>
 
 <h2 align-"left">Languages</h2>
 
