@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Eklavya.</h1>
+<h1 align="center">👋 Hi there, I'm Eklavya.</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
 
