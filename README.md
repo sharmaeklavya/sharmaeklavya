@@ -28,6 +28,12 @@ pronouns: he/him
 | ⚡ Page load | **30–40s → under 5s** |
 | 👥 Stakeholders | **15+** coordinated |
 
+### `> featured.projects`
+| Project | What it does | Stack |
+|---|---|---|
+| [**Rock-Paper-Scissors**](https://roshambogame.netlify.app/) | Playable browser game, live demo | YOUR_STACK |
+| [**PM Toolkit**](YOUR_REPO_LINK) | Release checklist, PR template, sprint retro, Jira workflow guide | Markdown |
+
 ### `> tech.i.work.with`
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -40,11 +46,23 @@ pronouns: he/him
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
+### `> github.streak`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharmaeklavya&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Eklavya's Streak"/>
+</p>
+
 ### `> connect`
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/eklavyajs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:eklavya092@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+### `> thanks.for.visiting`
+<p align="center">
+  Thanks for stopping by. I love connecting with people, so say hi on <a href="https://x.com/eklavyajs">X</a>.<br/>
+  Need a break? <a href="https://roshambogame.netlify.app/"><b>Play Rock-Paper-Scissors 🎮</b></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=100&section=footer"/>
