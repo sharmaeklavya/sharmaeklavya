@@ -1,69 +1,50 @@
-<h1 align="center">👋 Hi there, I'm Eklavya.</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=200&section=header&text=Eklavya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Assisted%20Developer%20%C3%97%20Technology%20Project%20Manager&descAlignY=58&descSize=16"/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharmaeklavya.sharmaeklavya)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Shipping+software+with+AI+%2B+Agile;Idea+%E2%86%92+Prompt+%E2%86%92+Product;Release+discipline+%26+CI%2FCD;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-<h2 align-"left">About Me</h2> 
+---
 
-- I am a Software Developer based in New Delhi India.
-- 🔭 Currently working on NestJS
-- 🌱 Learning Angular
-- 👯 Looking to collaborate on Full Stack Projects
-- 💬 Ask me about: ReactJS
-- 📫 Reach out to me through: [my portfolio](https://sharmaeklavya.netlify.app)
-- 😄 Pronouns: He / His/ Him
+### `> whoami`
+```yaml
+name: Eklavya Sharma
+role: Technology Project Manager + AI-assisted developer
+certified: CSM® | MBA (IT & Systems Management)
+location: New Delhi, India
+pronouns: he/him
+```
 
-![Eklavya's Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmaeklavya&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+### `> how.i.build`
+- 🤖 **AI-assisted development:** I own architecture, requirements, code review and deployment
+- 🧭 **Full SDLC:** scoping, sprints, releases, post-release support
+- 🔐 **Release governance:** review discipline that keeps AI-generated code production-safe
+- ⚡ **Currently:** leading a 10-member team on an enterprise lead qualification platform
 
-<!--- ![Eklavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaeklavya&theme=gotham&show_icons=true&hide_border=true)) --->
+### `> impact.log`
+| Metric | Result |
+|---|---|
+| 🚀 Release cadence | ~1.5 weeks → **twice weekly**, fewer rollbacks |
+| ⚡ Page load | **30–40s → under 5s** |
+| 👥 Stakeholders | **15+** coordinated |
 
-<h2 align-"left">Languages</h2>
+### `> tech.i.work.with`
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  
-<h2 align-"left">Database</h2>
+### `> connect`
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:eklavya092@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<h2 align-"left">CSS Frameworks</h2>
-    
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![ChakraUI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-  
-<h2 align-"left">NodeJS Frameworks</h2>
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-  ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-<h2 align-"left">Frontend Library/Framework</h2>
-
-  ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-
-<h2 align-"left">Other Tools</h2>
-
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-  
-
-<h2 align-"left">Thank you note</h2> 
-
-- Thank you for visiting my profile. 
-
-- I love connecting with people. If you wish to chat - connect with me on: [@eklavyajs](https://twitter.com/eklavyajs)
-
-- Here is what you can do after. [Rock-Paper-Scissors](https://roshambogame.netlify.app/)
-
-<!--
-
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
---> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=100&section=footer"/>
