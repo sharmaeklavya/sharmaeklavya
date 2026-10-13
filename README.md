@@ -9,7 +9,7 @@
 ### `> whoami`
 ```yaml
 name: Eklavya Sharma
-role: Full Stack Developer + Technology Project Manager
+role: Technology Project Manager
 certified: CSM® | MBA (IT & Systems Management)
 location: New Delhi, India
 pronouns: he/him
