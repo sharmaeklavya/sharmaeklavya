@@ -11,7 +11,8 @@
 name: Eklavya Sharma
 role: Technology Project Manager
 certified: CSM® | MBA (IT & Systems Management)
-
+location: New Delhi, India
+pronouns: he/him
 ```
 
 ### `> how.i.build`
